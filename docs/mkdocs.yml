@@ -1,0 +1,8 @@
+site_name: Mi Wiki Personal
+
+nav:
+  - Inicio: index.md
+  - Primeros pasos: primeros-pasos.md
+
+theme:
+  name: material
